@@ -1,4 +1,3 @@
- 왼쪽 핑크색 organization 아이콘이 최종 프로젝트 repo입니다
 
 <h2>기술 스택</h2>
 <div align='center'>
