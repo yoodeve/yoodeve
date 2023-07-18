@@ -2,7 +2,7 @@
 velog : https://velog.io/@yoodeve<br />
 portFolio : ___ <br />
 e-mail : janhold@naver.com<br />
-phone : 010.6758.1457<br />
+phone : 010-6758-1457<br />
 current location : Busan, South Korea<br />
 <br />
 ## 기술 스택
