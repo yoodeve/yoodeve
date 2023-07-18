@@ -7,7 +7,7 @@ current location : Busan, South Korea<br />
 <br />
 ## 기술 스택
 <div align='center'><br />
-  <b>SERVER</b><br 
+  <b>SERVER</b><br />
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/><br />
   <b>WEB</b><br />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">&nbsp;
