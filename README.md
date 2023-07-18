@@ -15,7 +15,7 @@ current location : Busan, South Korea<br />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/antdesign-764ABC?style=for-the-badge&logo=antdesign&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/antdesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white">&nbsp;
 <br/ >
   <b>기타</b><br />
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">&nbsp;
