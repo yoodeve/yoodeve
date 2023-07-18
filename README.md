@@ -18,7 +18,7 @@ current location : Busan, South Korea<br />
   <img src="https://img.shields.io/badge/antdesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">&nbsp;
 <br/ >
-  <b>기타</b><br />
+  <b>ET Cetera</b><br />
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/AWS Amplify-FF9900?style=for-the-badge&logo=AWS Amplify&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/ASANA-273347?style=for-the-badge&logo=ASANA&logoColor=white">&nbsp;
