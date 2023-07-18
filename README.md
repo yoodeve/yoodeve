@@ -21,7 +21,8 @@ current location : Busan, South Korea<br />
   <b>ET Cetera</b><br />
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/AWS Amplify-FF9900?style=flat&logo=AWS Amplify&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/atlassian-0052CC?style=flat&logo=atlassian&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/Atlassian-0052CC?style=flat&logo=atlassian&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">&nbsp;
   <br />
   
