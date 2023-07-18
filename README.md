@@ -15,7 +15,7 @@ current location : Busan, South Korea<br />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/AntD-0170FE?style=flat&logo=antdesign&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/Antd-0170FE?style=flat&logo=antdesign&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat&logo=styledcomponents&logoColor=white">&nbsp;
 <br/ >
   <b>ET Cetera</b><br />
