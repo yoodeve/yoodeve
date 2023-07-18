@@ -26,7 +26,7 @@ current location : Busan, South Korea<br />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">&nbsp;
   <br />
   
-![yoodeve's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoodeve&theme=dark&show_icons=true)  <br />
+![yoodeve's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoodeve&theme=dark&show_icons=true)
 [![yoodeve's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yoodeve&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/yoodeve)  <br />  <br />
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoodeve%2Fyoodeve&count_bg=%23D49393&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)  <br />
 </div>
