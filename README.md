@@ -8,22 +8,22 @@ current location : Busan, South Korea<br />
 ## 기술 스택
 <div align='center'><br />
   <b>SERVER</b><br 
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/><br />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/><br />
   <b>WEB</b><br />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/antdesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/antdesign-0170FE?style=flat&logo=antdesign&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=white">&nbsp;
 <br/ >
   <b>ET Cetera</b><br />
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/AWS Amplify-FF9900?style=for-the-badge&logo=AWS Amplify&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/ASANA-273347?style=for-the-badge&logo=ASANA&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/AWS Amplify-FF9900?style=flat&logo=AWS Amplify&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/ASANA-273347?style=flat&logo=ASANA&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">&nbsp;
   <br />
   
 ![yoodeve's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoodeve&theme=dark&show_icons=true)
