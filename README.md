@@ -1,4 +1,4 @@
-## 풀스택을 향해 나아가는 한유정의 깃헙입니다 !
+## 풀스택을 향해 나아가는 한유정의 저장소입니다 !
 velog : https://velog.io/@yoodeve<br />
 portFolio : ___ <br />
 e-mail : janhold@naver.com<br />
