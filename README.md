@@ -22,7 +22,7 @@ current location : Busan, South Korea<br />
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/AWS Amplify-FF9900?style=flat&logo=AWS Amplify&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/ASANA-273347?style=flat&logo=ASANA&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/git-181717?style=flat&logo=git&logoColor=white">&nbsp;
   <br />
   
 ![yoodeve's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoodeve&theme=dark&show_icons=true)
