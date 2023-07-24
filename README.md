@@ -1,6 +1,6 @@
 ## 풀스택을 향해 나아가는 한유정의 저장소입니다 !
 velog : https://velog.io/@yoodeve<br />
-portFolio : ___ <br />
+portFolio : [___](https://yoodeve.github.io/portfolio/) <br />
 e-mail : janhold@naver.com<br />
 phone : <i>010-6758-1457</i><br />
 current location : Busan, South Korea<br />
