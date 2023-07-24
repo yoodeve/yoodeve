@@ -1,7 +1,7 @@
 ## 풀스택을 향해 나아가는 한유정의 저장소입니다 !
-velog : https://velog.io/@yoodeve<br />
-portFolio : [포트폴리오 페이지 바로가기 click!](https://yoodeve.github.io/portfolio/) <br />
-e-mail : janhold@naver.com<br />
+velog : <i>https://velog.io/@yoodeve</i><br />
+portFolio : <i>[포트폴리오 페이지 바로가기 click!](https://yoodeve.github.io/portfolio/) </i><br />
+e-mail : <i>janhold@naver.com</i><br />
 phone : <i>010-6758-1457</i><br />
 current location : Busan, South Korea<br />
 <br />
