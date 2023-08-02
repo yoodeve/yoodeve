@@ -9,7 +9,7 @@ current location : Busan, South Korea<br />
 <div align='center'><br />
   <b>SERVER</b><br />
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-007396?style=flat&logo=Spring&logoColor=white"/><br />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/><br />
   <b>WEB</b><br />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">&nbsp;
